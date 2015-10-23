@@ -97,6 +97,7 @@ namespace Pilots
             }
         }
 
+        //проверка выигрышной комбинации
         bool isWin()
         {
             int up = 0;
