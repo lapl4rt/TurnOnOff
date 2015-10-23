@@ -1,9 +1,0 @@
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\bin\Debug\Pilots.exe
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\bin\Debug\Pilots.pdb
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\obj\x86\Debug\Pilots.Form1.resources
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\obj\x86\Debug\Pilots.Properties.Resources.resources
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\obj\x86\Debug\Pilots.csproj.GenerateResource.Cache
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\obj\x86\Debug\Pilots.exe
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\obj\x86\Debug\Pilots.pdb
-c:\users\yuliya\documents\visual studio 2010\Projects\Pilots\Pilots\obj\x86\Debug\Pilots.Form2.resources
-C:\Users\Yuliya\Documents\Visual Studio 2010\Projects\Pilots\Pilots\obj\x86\Debug\Pilots.csprojResolveAssemblyReference.cache
